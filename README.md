@@ -1,4 +1,4 @@
-# Cpsc335-Project2
+# Cpsc335-Project2 
 # Group Schedule Matching
 
 **Author:** Jaekwon Lee
